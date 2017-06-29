@@ -1,0 +1,16 @@
+E:\MSVS2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+E:\MSVS2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\MSVS2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\MSVS2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\MSVS2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\MSVS2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\Projects\RFtest\RFtest\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+E:\Projects\RFtest\RFtest\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Projects\RFtest\RFtest\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\Projects\RFtest\RFtest\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Projects\RFtest\RFtest\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Projects\RFtest\RFtest\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Projects\RFtest\RFtest\ConsoleApp1\bin\Debug\OpenTK.dll
+E:\Projects\RFtest\RFtest\ConsoleApp1\bin\Debug\OpenTK.pdb
+E:\Projects\RFtest\RFtest\ConsoleApp1\bin\Debug\OpenTK.xml
+E:\Projects\RFtest\RFtest\ConsoleApp1\bin\Debug\OpenTK.dll.config
